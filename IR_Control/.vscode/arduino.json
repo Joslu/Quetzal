@@ -1,0 +1,5 @@
+{
+    "sketch": "IR_Control.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "COM13"
+}

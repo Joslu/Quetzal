@@ -1,0 +1,5 @@
+{
+    "sketch": "Motors.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "COM13"
+}
